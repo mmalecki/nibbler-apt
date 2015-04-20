@@ -1,0 +1,26 @@
+{
+  "name": "nibbler-apt",
+  "version": "0.0.0",
+  "description": "apt integration for nibbler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmalecki/nibbler-apt"
+  },
+  "keywords": [
+    "nibbler",
+    "apt"
+  ],
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmalecki/nibbler-apt/issues"
+  },
+  "homepage": "https://github.com/mmalecki/nibbler-apt",
+  "dependencies": {
+    "nibbler-exec": "~0.1.0"
+  }
+}
