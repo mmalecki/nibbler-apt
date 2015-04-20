@@ -1,6 +1,6 @@
 {
   "name": "nibbler-apt",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "apt integration for nibbler",
   "main": "index.js",
   "scripts": {
